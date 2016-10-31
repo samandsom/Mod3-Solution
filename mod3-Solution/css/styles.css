@@ -1,0 +1,50 @@
+body {
+	background-color: #ebebe0;
+}
+#header-nav {
+	background-color:gray;
+	border : 1px solid black;
+	border-radius: 0px;
+	color: black;
+}
+#two {
+	float: right;
+	clear: both;
+}
+#dropdown-b {
+	color: black;
+	background-color: white;
+	margin-top: 40px;
+	border: 1px solid black;
+	width:100%;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+	border: 1px solid red;
+}
+
+#dropdown-b a {
+text-align:center;
+color: black;	
+width:100%;
+}
+ #one{
+	border: 1px solid black; 
+	width:100%;
+	margin-right:10px;
+ }
+nav #header {
+	font-family: Times New Romans;
+	text-decoration: italic;
+	margin : 15px;
+	font-style:italic;
+	font-size:24px;
+	font-weight:bold;
+}
+h2 {
+	text-align:center;
+}
+#dummy-text {
+	background-color:gray;
+	color:white;
+	margin: 20px;
+}
